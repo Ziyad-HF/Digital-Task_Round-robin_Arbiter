@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Round Robin Arbiter is a digital circuit designed for arbitration in computer systems, particularly in scenarios where multiple requesters contend for access to a shared resource. This project aims to provide a fair and deterministic method for allocating access to the shared resource by rotating through a sequence of requesters and granting each requester access for a fixed time slice or priority level before moving on to the next requester.
+The Round Robin Arbiter is a digital circuit developed using Verilog for arbitration in computer systems, particularly in scenarios where multiple requesters contend for access to a shared resource. This project aims to provide a fair and deterministic method for allocating access to the shared resource by rotating through a sequence of requesters and granting each requester access for a fixed time slice or priority level before moving on to the next requester.
 
 ## Purpose
 
@@ -65,3 +65,10 @@ The Round Robin Arbiter is a valuable component in computer systems where fair a
 For specific implementation details and integration, the circuit and more details in our [Report](/round_robin.pdf).
 
 Happy arbitrating!
+
+## Contributors
+
+- [Ziyad ElFayoumy](https://github.com/Zoz-HF)
+- [Omar Shaban](https://github.com/omarshaban02)
+- [Mahmoud Mohamed](https://github.com/Mahmoudm007)
+- [Mahmoud Magdy](https://github.com/MahmoudMagdy404)
