@@ -8,7 +8,7 @@ The Round Robin Arbiter is a digital circuit developed using Verilog for arbitra
 
 The Round Robin Arbiter's primary purpose is to ensure equitable distribution of a shared resource among multiple competing requesters. It accomplishes this by implementing a rotating mechanism, granting access to each requester in a sequential order. This ensures that over time, each requester receives an equal share of the resource, promoting fairness and avoiding resource starvation.
 
-For the [circuit code](/round_robin.v) and its [test bench](/round_robin_tb.v)  
+> For the [circuit code](/round_robin.v) and its [test bench](/round_robin_tb.v)  
 
 ## Applications
 
@@ -62,7 +62,7 @@ The Round Robin Arbiter operates as follows:
 
 The Round Robin Arbiter is a valuable component in computer systems where fair and deterministic resource allocation is essential. By implementing this circuit, you can ensure that multiple requesters share a resource fairly and efficiently, preventing contention and promoting equitable resource utilization.
 
-For specific implementation details and integration, the circuit and more details in our [Report](/round_robin.pdf).
+> For specific implementation details and integration, the circuit and more details in our [Report](/round_robin.pdf).
 
 Happy arbitrating!
 
