@@ -68,7 +68,7 @@ Happy arbitrating!
 
 ## Contributors
 
-- [Ziyad ElFayoumy](https://github.com/Zoz-HF)
+- [Ziyad ElFayoumy](https://github.com/Ziyad-HF)
 - [Omar Shaban](https://github.com/omarshaban02)
 - [Mahmoud Mohamed](https://github.com/Mahmoudm007)
 - [Mahmoud Magdy](https://github.com/MahmoudMagdy404)
